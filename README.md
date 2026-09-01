@@ -54,10 +54,13 @@ I am a passionate **Full-Stack Web Developer** focused on building responsive, c
 ### 📊 GitHub Activity & Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hakim-azizul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakim-azizul&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hakim-azizul&show_icons=true&theme=tokyonight&border_radius=10&locale=en" alt="Azizul's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakim-azizul&theme=tokyonight&hide_border=true" width="96%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakim-azizul&layout=compact&theme=tokyonight&border_radius=10&locale=en" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakim-azizul&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
 </p>
