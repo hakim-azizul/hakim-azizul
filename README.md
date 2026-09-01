@@ -53,17 +53,14 @@ I am a passionate **Full-Stack Web Developer** focused on building responsive, c
 
 ### 📊 GitHub Activity & Statistics
 
-<!-- GitHub Activity Graph -->
+<!-- GitHub Streak Stats (Working) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hakim-azizul&theme=tokyo-night&area=true&hide_border=true&custom_title=30%20Days%20Contribution%20Activity" alt="Azizul's GitHub Activity Graph" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakim-azizul&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
 </p>
 
-<!-- GitHub Streak Stats -->
+<!-- Live Dynamic Metric Badges -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakim-azizul&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="96%" />
-</p>
-
-<!-- GitHub Achievement Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hakim-azizul&theme=tokyonight&no-frame=true&no-bg=true&margin_w=10" alt="GitHub Trophies" />
+  <img src="https://img.shields.io/badge/Status-Active_Developer-success?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/github/followers/hakim-azizul?label=Followers&style=for-the-badge&color=0969da&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/badge/Contributions-50%2B_Commits-0969da?style=for-the-badge&logo=git&logoColor=white" alt="Contributions" />
 </p>
