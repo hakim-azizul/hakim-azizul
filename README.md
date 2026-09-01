@@ -53,14 +53,17 @@ I am a passionate **Full-Stack Web Developer** focused on building responsive, c
 
 ### 📊 GitHub Activity & Statistics
 
+<!-- GitHub Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hakim-azizul&show_icons=true&theme=tokyonight&border_radius=10&locale=en" alt="Azizul's GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hakim-azizul&theme=tokyo-night&area=true&hide_border=true&custom_title=30%20Days%20Contribution%20Activity" alt="Azizul's GitHub Activity Graph" width="100%" />
 </p>
 
+<!-- GitHub Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakim-azizul&layout=compact&theme=tokyonight&border_radius=10&locale=en" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakim-azizul&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="96%" />
 </p>
 
+<!-- GitHub Achievement Trophies -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakim-azizul&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hakim-azizul&theme=tokyonight&no-frame=true&no-bg=true&margin_w=10" alt="GitHub Trophies" />
 </p>
