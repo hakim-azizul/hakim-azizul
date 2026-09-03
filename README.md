@@ -33,14 +33,14 @@ I am a passionate **Full-Stack Web Developer** dedicated to engineering high-per
 **Languages & Frontend Core**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,redux,bootstrap&theme=dark" alt="Frontend Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,&theme=dark" alt="Frontend Skills" />
   </a>
 </p>
 
 **Backend, Database & Tooling**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,mongodb,git,github,vscode,vercel&theme=dark" alt="Tools and Backend" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,vercel&theme=dark" alt="Tools and Backend" />
   </a>
 </p>
 
