@@ -1,11 +1,10 @@
 <!-- Header Banner with Dynamic Wave & Title -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=Azizul%20Hakim&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Web%20Developer%20%7C%20Frontend%20Specialist&descFontSize=18&descFontColor=a5d6ff&descAlignY=60" width="100%" alt="Azizul Hakim Banner" />
+<p align="center">
+  <img src="banner0.png" alt="Azizul Hakim Banner" width="100%" />
+</p>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hakim-azizul&label=Profile%20Views&color=0969da&style=flat-square" alt="Profile Views" />
-</p>
 
 ### 👨‍💻 About Me
 I am a passionate **Full-Stack Web Developer** dedicated to engineering high-performance, responsive, and visually refined web applications. I focus on writing clean, modular code and solving architectural challenges with structured logic.
