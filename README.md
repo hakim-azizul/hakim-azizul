@@ -1,7 +1,7 @@
 <!-- Header Banner with Dynamic Wave & Title -->
 <div align="center">
 <p align="center">
-  <img src="banner02.png" alt="Azizul Hakim Banner" width="100%" />
+  <img src="banner (2).png" alt="Azizul Hakim Banner" width="100%" />
 </p>
 </div>
 
